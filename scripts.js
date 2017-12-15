@@ -1,4 +1,4 @@
-
+"'
 function login() {
 
 
@@ -19,7 +19,7 @@ function login() {
        document.getElementById('error').classList.add('hide');
 
 
-       window.location.href = 'home.html
+       window.location.href = 'home.html'
 
 
    } else {
