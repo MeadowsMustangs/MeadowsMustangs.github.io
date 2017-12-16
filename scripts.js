@@ -14,7 +14,7 @@ function login() {
   
 
 
-   if ((username === 'hello' && password === 'coolpeeps101') || (username === 'carizly' && password === 'lol')) {
+   if ((username === 'hello' && password === 'lol') || (username === 'carizly' && password === 'lol')) {
 
 
        document.getElementById('error').classList.add('hide');
